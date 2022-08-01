@@ -42,7 +42,7 @@ The purpose of this project is to implement the database model using entity-rela
 - question_assignment -->  Shows which short answer question is used in which assignment
 
 # UI 
-To access the database for reading and manapulating data, we need a UI.  To meet this need, I simply made a MySQL connenction in python and user commands are entered through consol(A simple but useful way to work with our database)
+To access the database for reading and manapulating data, we need a UI.  To meet this need, I simply made a MySQL connenction in python and user commands are entered through python CLI(A simple but useful way to work with our database)
 # How to run this project
 1. create a database
 2. add sql files to yout database project and create tables 
