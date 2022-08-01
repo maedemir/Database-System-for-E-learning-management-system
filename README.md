@@ -14,6 +14,7 @@ The purpose of this project is to implement the database model and to directly w
     - View his/her submissions for an assignmemnt
     - Submit an answer for an assignment
     - Update his/her answer for an specified assignment
+    - Review a quiz after its deadline
 - Professor
   * student can : 
     - Login
