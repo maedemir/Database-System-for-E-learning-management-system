@@ -41,3 +41,12 @@ The purpose of this project is to implement the database model using entity-rela
 - submission --> Shows relation between student and assignment with their total grade
 - question_assignment -->  Shows which short answer question is used in which assignment
 
+# UI 
+To access the database for reading and manapulating data, we need a UI.  To meet this need, I simply made a MySQL connenction in python and user commands are entered through consol(A simple but useful way to work with our database)
+# How to run this project
+1. create a database
+2. add sql files to yout database project and create tables 
+3. using FinalPrjData.xslx, fill the correspondent tables 
+4. Add some arbitrary data to the empty tables(Remember to fill out those who are foreign key for other tables)
+5. Using python UI you can simply connect your database to UI
+6. Done. easy-peasy🤏🏻
