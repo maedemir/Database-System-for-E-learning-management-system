@@ -17,11 +17,13 @@ The purpose of this project is to implement the database model and to directly w
     - Login
     - Logout
     - Change his/her password
-    - View list of his/her courses
-    - View his/her quizzes
-    - Entering an exam in right time and answering to that
-    - View list of his/her assignment and submit an answer to each one before its deadline
-    - Viewing his/her submissions for an assignmemnt
+    - View list of students for each of his/her courses
+    - View list of his/her quizzes
+    - View list of his/her assignments
+    - Create new exam
+    - Create new assignment
+    - View list of submissions for each of exams or assignments
+    - Score each of the submissions for an assignment
 - Course
 - Homework
 - Educational Content
