@@ -3,6 +3,8 @@ This project is an implementation of a database system for university E-learning
 The purpose of this project is to implement the database model and to directly work with SQL and also is to implement the relationships and work with the implemented model from a separate user interface.
 ## Entities of this model
 - Student
+-- student can :
+--- 
 - Professor
 - Course
 - Homework
