@@ -49,4 +49,9 @@ To access the database for reading and manapulating data, we need a UI.  To meet
 3. using FinalPrjData.xslx, fill the correspondent tables 
 4. Add some arbitrary data to the empty tables(Remember to fill out those who are foreign key for other tables)
 5. Using python UI you can simply connect your database to UI
-6. Done. easy-peasy🤏🏻
+6. Done! easy-peasy🤏🏻
+# Project description and data
+[DB-00-2-FinalPrj.pdf](https://github.com/maedemir/Database-System-for-E-learning-management-system/files/9232204/DB-00-2-FinalPrj.pdf)
+
+[DB-00-2-FinalPrjData.xlsx](https://github.com/maedemir/Database-System-for-E-learning-management-system/files/9232209/DB-00-2-FinalPrjData.xlsx)
+
