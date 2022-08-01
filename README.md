@@ -27,10 +27,17 @@ The purpose of this project is to implement the database model using entity-rela
     - Create new assignment
     - View list of submissions for each assignment
     - View list of answers for each quiz
-    - Score each of the submissions for an assignment
+    - Score each of the submissions for an assignmentض
 - Course
 - Quiz
 - Radio button question (it is used only in quizzes)
 - Assignment
 - Short answer question (it is used only in assignments)
 ## Relations 
+- quiz_answer --> shows each student's answer for each quiz question
+- participate --> shows which student has participation in which quiz
+- question_quiz --> shows which question is used in which quiz
+- assignment_answer --> shows each student's answer for each  assignment question
+- submission --> 
+- question_assignment -->
+- 
