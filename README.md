@@ -43,6 +43,12 @@ The purpose of this project is to implement the database model using entity-rela
 
 # UI 
 To access the database for reading and manapulating data, we need a UI.  To meet this need, I simply made a MySQL connenction in python and user commands are entered through python CLI(A simple but useful way to work with our database)
+<img width="440" alt="Screen Shot 1401-05-10 at 16 06 57" src="https://user-images.githubusercontent.com/72692826/182161324-b08a0e1c-663b-4931-9e23-fe3cf2e957d7.png">
+
+and if you choose option1, you'll see this
+<img width="299" alt="Screen Shot 1401-05-10 at 16 07 11" src="https://user-images.githubusercontent.com/72692826/182161421-e50c422e-b56a-455b-bc52-eb794e3ae5fd.png">
+and so on!
+
 # How to run this project
 1. create a database
 2. add sql files to yout database project and create tables 
