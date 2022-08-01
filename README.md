@@ -12,6 +12,8 @@ The purpose of this project is to implement the database model and to directly w
     - Enter an exam in right time and answer to that
     - View list of his/her assignment and submit an answer to each one before its deadline
     - View his/her submissions for an assignmemnt
+    - Submit an answer for an assignment
+    - Update his/her answer for an specified assignment
 - Professor
   * student can : 
     - Login
