@@ -34,10 +34,10 @@ The purpose of this project is to implement the database model using entity-rela
 - Assignment
 - Short answer question (it is used only in assignments)
 ## Relations 
-- quiz_answer --> shows each student's answer for each quiz question
-- participate --> shows which student has participation in which quiz
-- question_quiz --> shows which question is used in which quiz
-- assignment_answer --> shows each student's answer for each  assignment question
-- submission --> 
-- question_assignment -->
-- 
+- quiz_answer --> Shows each student's answer for each quiz question
+- participate --> Shows which student has participation in which quiz
+- question_quiz --> Shows which radio button question is used in which quiz
+- assignment_answer --> Shows each student's answer for each  assignment question
+- submission --> Shows relation between student and assignment with their total grade
+- question_assignment -->  Shows which short answer question is used in which assignment
+
