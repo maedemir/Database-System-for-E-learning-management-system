@@ -29,6 +29,7 @@ The purpose of this project is to implement the database model and to directly w
     - View list of answers for each quiz
     - Score each of the submissions for an assignment
 - Course
-- Homework
-- Educational Content
-- 
+- Quiz
+- Radio button question (it is used only in quizzes)
+- Assignment
+- Short answer question (it is used only in assignments)
