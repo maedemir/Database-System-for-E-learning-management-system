@@ -57,7 +57,7 @@ and so on!
 1. create a database
 2. add sql files to yout database project and create tables 
 3. using FinalPrjData.xslx, fill the correspondent tables 
-4. Add some arbitrary data to the empty tables(Remember to fill out those who are foreign key for other tables)
+4. Add some arbitrary data to the empty tables(Remember to first fill out those who are foreign key for other tables)
 5. Using python UI files, you can simply connect your database to UI(Just remember to change database name in main.py)
 6. Done! easy-peasy🤏🏻
 # Project description and data
