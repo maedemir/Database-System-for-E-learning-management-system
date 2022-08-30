@@ -1,6 +1,5 @@
-# Database-System-for-E-learning-management-system
-This project is an implementation of a database system for university E-learning management system using MySQL and Python
-The purpose of this project is to implement the database model using entity-relation model and to directly work with SQL and also is to implement the relationships and work with the implemented model from a separate user interface. 
+This project is an implementation of a database system for a university E-learning management system using MySQL and Python. The purpose of this project is to design a database using an entity-relation model, work with SQL, implement the relationships between entities, and work with the implemented model from a separate user interface.
+
 ## Entities
 - Student
   * student can : 
@@ -42,7 +41,7 @@ The purpose of this project is to implement the database model using entity-rela
 - question_assignment -->  Shows which short answer question is used in which assignment
 
 # UI 
-To access the database for reading and manapulating data, we need a UI.  To meet this need, I simply made a MySQL connenction in python and user commands are entered through python CLI(A simple but useful way to work with our database)
+To access the database for reading and manipulating data, we need a UI. To meet this need, I simply made a MySQL connection in python, and user commands are entered through python CLI(A simple but useful way to work with our database).
 
 
 <img width="350" alt="Screen Shot 1401-05-10 at 16 06 57" src="https://user-images.githubusercontent.com/72692826/182161324-b08a0e1c-663b-4931-9e23-fe3cf2e957d7.png">
@@ -55,10 +54,10 @@ and so on!
 
 # How to run this project
 1. create a database
-2. add sql files to yout database project and create tables 
-3. using FinalPrjData.xslx, fill the correspondent tables 
-4. Add some arbitrary data to the empty tables(Remember to first fill out those who are foreign key for other tables)
-5. Using python UI files, you can simply connect your database to UI(Just remember to change database name in main.py)
+2. Add SQL files to your database project and create tables 
+3. Using FinalPrjData.xslx, fill the correspondent tables, Add SQL files to your database project and create tables  
+4. Add some arbitrary data to the empty tables(Remember first to fill out those who are foreign keys for other tables)
+5. Using the python UI files, you can simply connect your database to UI(Remember to change the database name in main.py)
 6. Done! easy-peasy🤏🏻
 # Project description and data
 [DB-00-2-FinalPrj.pdf](https://github.com/maedemir/Database-System-for-E-learning-management-system/files/9232204/DB-00-2-FinalPrj.pdf)
